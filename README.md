@@ -7,14 +7,13 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  <!-- - [Links](#links) -->
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,10 +31,10 @@ Users should be able to:
 ![](./assets/images/screenshots/mobile-preview.png)
 ![](./assets/images/screenshots/window-preview.png)
 
-### Links
+<!-- ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 ## My process
 
@@ -67,7 +66,7 @@ faqs.forEach(faq => {
 
 ### Continued development
 
-Will look into ways of smoother transitions between images between clicks, and building similar projects from a mobile first perspective.
+Will look into ways of smoother transitions between images between clicks, and building similar projects from a mobile first perspective. Needs to also have keyboard navigation enabled as well.
 
 
 ## Author
