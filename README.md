@@ -66,7 +66,7 @@ faqs.forEach(faq => {
 
 ### Continued development
 
-Will look into ways of smoother transitions between images between clicks, and building similar projects from a mobile first perspective. Needs to also have keyboard navigation enabled as well.
+Will look into ways of smoother transitions between images between clicks, and building similar projects from a mobile first perspective. Also, including better keyboard navigation through categories, including arrow navigation
 
 
 ## Author
