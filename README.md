@@ -7,7 +7,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  <!-- - [Links](#links) -->
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [https://htmlpreview.github.io/?https://github.com/sar-mko/faq-accordion/blob/main/index.html](https://your-live-site-url.com) -->
+- Live Site URL: [htmlpreview.github.io/sar-mko](https://htmlpreview.github.io/?https://github.com/sar-mko/faq-accordion/blob/main/index.html) -->
 
 ## My process
 
@@ -71,7 +71,7 @@ Will look into ways of smoother transitions between images between clicks, and b
 
 ## Author
 
-- Website - [Sarah] (https://www.your-site.com)
+- Website - [Sarah] ([https://www.your-site.com](https://htmlpreview.github.io/?https://github.com/sar-mko/faq-accordion/blob/main/index.html))
 - Frontend Mentor - [@sar-mko](https://www.frontendmentor.io/profile/sar-mko)
 - Linkedin - [Sarah] (https://www.linkedin.com/in/sarah-mko/)
 
