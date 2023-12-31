@@ -31,10 +31,10 @@ Users should be able to:
 ![](./assets/images/screenshots/mobile-preview.png)
 ![](./assets/images/screenshots/window-preview.png)
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [https://htmlpreview.github.io/?https://github.com/sar-mko/faq-accordion/blob/main/index.html](https://your-live-site-url.com) -->
 
 ## My process
 
